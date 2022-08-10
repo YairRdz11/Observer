@@ -11,3 +11,6 @@ There is dependency as Observers themselves don’t have access to data. They ar
 Scenario:
 
 Suppose we are building a cricket app that notifies viewers about the information such as current score, run rate etc. Suppose we have made two display elements CurrentScoreDisplay and AverageScoreDisplay. CricketData has all the data (runs, bowls etc.) and whenever data changes the display elements are notified with new data and they display the latest data accordingly.
+
+
+This example was found in <a href="https://www.geeksforgeeks.org/observer-pattern-set-1-introduction/" target="_blank">Geekforgeeks</a> please click for more information
